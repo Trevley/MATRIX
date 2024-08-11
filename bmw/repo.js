@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
       *SUPER MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/omlugha/SUPER
+> https://github.com/omlugha/SUPER-MD/tree/main
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV1* : *Trevley*
