@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/e03206989102cb861200e.jpg",
+      "value":"https://telegra.ph/file/d68ec9393c98e57b6ec6f.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr Tosh"
+    "value": "Mr Sultan"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254111523038"
+    "value": "254729980068"
   },
     "WARN_COUNT":
   {
