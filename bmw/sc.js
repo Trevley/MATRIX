@@ -37,20 +37,16 @@ const date = moment().format('DD/MM/YYYY');
       *SUPER MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Tosh205/SUPER-MD
-
-*WHATSAPP GROUP*
-> https://chat.whatsapp.com/K5qhnWJMAZE4lZYnU1Bluk
-⁠
+> https://github.com/omlugha/SUPER
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Tosh tech*
+│❒⁠⁠⁠⁠ *DEV1* : *Trevley*
 │❒⁠⁠⁠⁠ *DEV2* : *Ibrahim Adams*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Tosh Tech*
+     *Trevley*
 
 ❒────────────────────❒`;
 
