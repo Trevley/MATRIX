@@ -1,5 +1,5 @@
 {
-  "name": "Bmw-md",
+  "name": "Matrix-md",
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js",
@@ -13,12 +13,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "Matrix-md",
     "whatsapp",
     "whatsapp-bot",
-    "bmw-md-boy"
+    "matrix-md-boy"
   ],
-  "author": "Tosh205",
+  "author": "Sultan",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
