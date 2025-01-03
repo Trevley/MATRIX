@@ -7,7 +7,7 @@
 
 
 
-<p align="center"><img src="https://profile-counter.glitch.me/{MATRIX-XMD}/count.svg" alt="Trevley :: Visitor's Count" /></p>
+<p align="center"><img src="https://files.catbox.moe/z7aq15.jpg" alt="Trevley :: Visitor's Count" /></p>
 *****
 ## BOT MADE BY SIR LIL TREV
 
@@ -25,7 +25,7 @@
     <br>
 <a href='https://matrix-md-verification.vercel.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-***"
+****
 
 
 
