@@ -1,9 +1,9 @@
 {
-  "name":"SUPER-MD",
-  "description":"Best whatsapp bot developed by Tosh+Ibrahim adams",
+  "name":"MATRIX-XMD",
+  "description":"Best whatsapp bot developed by Trevor+Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e03206989102cb861200e.jpg",
-  "repository":"https://github.com/Tosh205/SUPER-MD",
+  "repository":"https://github.com/Trevley/MATRIX-XMD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"SUPER-MD",
+      "value":"MATRIX-XMD",
       "required":false
 
     } ,
