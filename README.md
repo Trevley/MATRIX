@@ -30,7 +30,8 @@
 ****
 **👇FORK REPO(A MUST)**
 <details>
-<summary>CLICK HERE<summary>-essential to fork repo first to deploy safely on heroku
+<summary>CLICK HERE<summary>
+  -essential to fork repo first to deploy safely on heroku
 
 
 
