@@ -28,9 +28,10 @@
 <a href='https://matrix-md-verification.vercel.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ****
-
+*👇FORK REPO(A MUST)*
+<details>
 <a
-href="https://github.com/Trevley/MATRIX-XMD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+href="https://github.com/Trevley/MATRIX-XMD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK MATRIX-XMD" width="150"></a>
 
 
  📮s&ᴋ
