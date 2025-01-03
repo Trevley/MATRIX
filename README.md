@@ -28,10 +28,9 @@
 <a href='https://matrix-md-verification.vercel.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ****
-*👇FORK REPO(A MUST)*
+**👇FORK REPO(A MUST)**
 <details>
-  <summary>CLICK HERE<summary>
--essential to fork repo to safely deploy on heroku
+<summary>CLICK HERE<summary>-essential to fork repo first to deploy safely on heroku
 
 
 
