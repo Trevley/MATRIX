@@ -38,3 +38,6 @@
 ****
    
 [![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+254791850627) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=Instagram) 
+(https://www.instagram.com/lil_trev._)
