@@ -1,13 +1,13 @@
 ****"
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <div align="center" class= "main"> 
-  <img src="https://github.com/Trevley/MATRIX-XMD/blob/0a042221055000d87accea615e23fe5af6b09659/IMG-20241208-WA0046.jpg" width="500" height="500"/>
+  <img src="https://files.catbox.moe/z7aq15.jpg" width="500" height="500"/>
   <h1>MATRIX-XMD</h1>
 
 
 
 
-<p align="center"><img src="https://files.catbox.moe/z7aq15.jpg" alt="Trevley :: Visitor's Count" /></p>
+<p align="center"><img src="https://files.catbooe/z7aq15.jpg" alt="Trevley :: Visitor's Count" /></p>
 *****
 ## BOT MADE BY SIR LIL TREV
 
