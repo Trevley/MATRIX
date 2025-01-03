@@ -12,8 +12,7 @@
 <p align="center"><img src="https://files.catbooe/z7aq15.jpg" alt="Trevley :: Visitor's Count" /></p>
 *****
 ## BOT MADE BY SIR LIL TREV
-<a
-  href="https://github.com/Trevley/MATRIX-XMD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+
 *****
 [`Scan Session`](https://matrix-md-7bc97ab50410.herokuapp.com/) 
 
