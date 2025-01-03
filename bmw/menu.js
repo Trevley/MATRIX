@@ -44,7 +44,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰──────────────────❂ \n\n`;
  
     let menuMsg=`  
-  *SUPER-MD COMMANDS*
+  *MATRIX-XMD COMMANDS*
 `;
 
     for (const cat in coms) {
@@ -61,7 +61,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *—————✺✺✺✺—————*
 
-  *SUPER-MD*                                         
+  *MATRIX-XMD*                                         
 *╰═════════════❂*
 `;
 
