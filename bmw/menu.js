@@ -42,7 +42,8 @@ const date = moment().format('DD/MM/YYYY');
 ┊✺┊ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┊❂╰───────────────❂
 ╰──────────────────❂
- FOLLOW OUR CHANNEL(https://whatsapp.com/channel/0029VB2KCXH2JL87O0LAGD3O) 
+ FOLLOW OUR CHANNEL
+ ( https://whatsapp.com/channel/0029VB2KCXH2JL87O0LAGD3O) 
 \n\n`;
  
     let menuMsg=`  
