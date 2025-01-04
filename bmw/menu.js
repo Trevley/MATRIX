@@ -41,7 +41,9 @@ const date = moment().format('DD/MM/YYYY');
 ┊✺┊ *Time* : ${temps}  
 ┊✺┊ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┊❂╰───────────────❂
-╰──────────────────❂ \n\n`;
+╰──────────────────❂
+ FOLLOW OUR CHANNEL(https://whatsapp.com/channel/0029VB2KCXH2JL87O0LAGD3O) 
+\n\n`;
  
     let menuMsg=`  
   *𝐌𝐀𝐓𝐑𝐈𝐗-𝐗𝐌𝐃 COMMANDS*
