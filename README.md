@@ -34,7 +34,7 @@ href="https://matrix-md-7bc97ab50410.herokuapp.com/" ><img src="https://img.shie
 **👇FORK REPO(A MUST)**
 <details>
 <summary>CLICK HERE<summary>
-  -essential to fork repo first to deploy safely on heroku
+  -essential to fork repo first for you  to deploy safely on heroku
 
 
 
