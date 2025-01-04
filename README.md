@@ -22,13 +22,13 @@ href="https://matrix-md-7bc97ab50410.herokuapp.com/" ><img src="https://img.shie
 ****
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 *****
- 𝘊𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
+ **𝘊𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.**
     <br>
 <a href='https://dashboard.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 ****
  𝘕𝘰𝘸 𝘋𝘦𝘱𝘭𝘰𝘺
     <br>
-<a href='https://matrix-md-verification.vercel.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://matrix-md-verification.vercel.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ****
 **👇FORK REPO(A MUST)**
