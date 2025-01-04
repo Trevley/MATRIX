@@ -34,7 +34,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭──────────────────❂
-┊❂╭───𝐒𝐔𝐏𝐄𝐑-𝐌𝐃────❂
+┊❂╭───**MATRIX-XMD**────❂
 ┊✺┊ *User* : ${s.OWNER_NAME}
 ┊✺┊ *Mode* : ${mode}
 ┊✺╰───────────────❂
@@ -61,7 +61,8 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *—————✺✺✺✺—————*
 
-  *MATRIX-XMD*                                         
+  *MATRIX-XMD* 
+  ©MATRIX TECH 2025
 *╰═════════════❂*
 `;
 
