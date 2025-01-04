@@ -34,7 +34,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭──────────────────❂
-┊❂╭───**MATRIX-XMD**────❂
+┊❂╭───*𝐌𝐀𝐓𝐑𝐈𝐗-𝐗𝐌𝐃*────❂
 ┊✺┊ *User* : ${s.OWNER_NAME}
 ┊✺┊ *Mode* : ${mode}
 ┊✺╰───────────────❂
@@ -44,7 +44,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰──────────────────❂ \n\n`;
  
     let menuMsg=`  
-  *MATRIX-XMD COMMANDS*
+  *𝐌𝐀𝐓𝐑𝐈𝐗-𝐗𝐌𝐃 COMMANDS*
 `;
 
     for (const cat in coms) {
@@ -62,7 +62,7 @@ const date = moment().format('DD/MM/YYYY');
 *—————✺✺✺✺—————*
 
   *MATRIX-XMD* 
-  ©MATRIX TECH 2025
+  ©𝐌𝐀𝐓𝐑𝐈𝐗 𝐓𝐄𝐂𝐇 𝟐𝟎𝟐𝟓
 *╰═════════════❂*
 `;
 
