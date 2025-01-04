@@ -34,13 +34,13 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *MATRIX-XMD IMPORTANT INFO* 
+   *𝐌𝐀𝐓𝐑𝐈𝐗-𝐗𝐌𝐃 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
 > https://github.com/Trevley/MATRIX-XMD
 
 *WHATSAPP GROUP*
-> https://chat.whatsapp.com/K5qhnWJMAZE4lZYnU1Bluk
+>https://chat.whatsapp.com/K8IfcWXLs0S0cpMTN1riyN
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
@@ -50,7 +50,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-     *©MATRIX TECH 2025*
+     *©𝐌𝐀𝐓𝐑𝐈𝐗 𝐓𝐄𝐂𝐇 𝟐𝟎𝟐𝟓
 
 ❒────────────────────❒`;
 
