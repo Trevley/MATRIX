@@ -52,6 +52,12 @@ href="https://github.com/Trevley/MATRIX-XMD/fork"><img src="https://img.shields.
 - *This Bot is not 100% secure,So keep this in mind*
 
 ****
+[![Matrix Tech's Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Trevley&theme=radical)](https://github.com/rahuldkjain/github-profile-readme-generator)
+
+
+
+
+
    
 [![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+254791850627) 
 
