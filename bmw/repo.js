@@ -34,19 +34,19 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *SUPER MD IMPORTANT INFO* 
+      *MATRIX-XMD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/omlugha/SUPER-MD/tree/main
+> https://github.com/Trevley/MATRIX-XMD/tree/main
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Trevley*
+│❒⁠⁠⁠⁠ *DEV1* : *Matrix Tech*
 │❒⁠⁠⁠⁠ *DEV2* : *Ibrahim Adams*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Trevley*
+     *©Matrix tech 2025*
 
 ❒────────────────────❒`;
 
