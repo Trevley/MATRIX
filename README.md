@@ -3,7 +3,7 @@
 [![matrix tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+LilTREV+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Trevley)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <div align="center" class= "main"> 
-  <img src="https://files.catbox.moe/jmrik.jpg" width="500" height="400"/>
+  <img src="https://files.catbox.moe/jmmrik.jpg" width="500" height="400"/>
   <h1>MATRIX-XMD</h1>
 
 
@@ -53,14 +53,15 @@ href="https://github.com/Trevley/MATRIX-XMD/fork"><img src="https://img.shields.
 
 
 <img src="https://img.shields.io/github/forks/raTrevley/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+<br>
 </a>
 <a href="https://github.com/Trevley/github-profile-readme-generator/blob/master/LICENSE" target="blank">
-
+<br>
 
 
    
 [![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+254791850627) 
-
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=Instagram)](https://www.instagram.com/lil_trev._) 
 [![matrix tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+MATRIX+XMD;🙏;🙏+✍🏾;🥰)](https://github.com/Trevley)
 -*Special thanks to bro[Ibrahim Adams](https://github.com/ibrahimaitech/) 
