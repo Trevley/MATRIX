@@ -35,23 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *SUPER MD IMPORTANT INFO* 
+     *MATRIX-XMD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Tosh205/SUPER-MD
+> https://github.com/Trevley/MATRIX-XMD 
 
 *WHATSAPP GROUP*
 > https://chat.whatsapp.com/K5qhnWJMAZE4lZYnU1Bluk
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Tosh tech*
+│❒⁠⁠⁠⁠ *DEV1* : *Lil Trev*
 │❒⁠⁠⁠⁠ *DEV2* : *Ibrahim Adams*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Tosh Tech*
+     *Matrix Tech*
 
 ❒────────────────────❒`;
 
@@ -121,13 +121,13 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BMW MD IMPORTANT INFO* 
+   *MATRIX-XMD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
 > https://github.com/ibrahimaitech/BMW-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029VaiOh8O60eBXckdPQy0S
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
