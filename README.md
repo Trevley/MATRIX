@@ -9,7 +9,7 @@
 
 
 
-<p align="center"><img src="https://files.catbooe/z7aq15.jpg" alt="Trevley::Visitor's Count"/></p>
+<p align="center"><img src="https://files.catbooe/z7aq15.jpg"/></p>
 
 *****
 ## BOT MADE BY SIR LIL TREV
