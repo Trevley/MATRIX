@@ -15,7 +15,7 @@
 ## BOT MADE BY SIR LIL TREV
 
 *****
-[`Scan Session`](https://matrix-md-7bc97ab50410.herokuapp.com/) 
+[`Scan Session`](https://flash-md-z6lm.onrender.com/pair) 
 
 <a
 href="https://matrix-md-7bc97ab50410.herokuapp.com/" ><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
