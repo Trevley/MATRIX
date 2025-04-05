@@ -57,9 +57,12 @@ href="https://github.com/Trevley/MATRIX-XMD/fork"><img src="https://img.shields.
 </a>
 <a href="https://github.com/Trevley/github-profile-readme-generator/blob/master/LICENSE" target="blank">
 <br>
+
 #### SUPPORT THE PROJECT 
+
 1. **JOIN OUR SUPPORT GROUP**
-- <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM" target="_blank">
+2. 
+<a href="https://chat.whatsapp.com/K8IfcWXLs0S0cpMTN1riyN" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN NOW 🚀 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
