@@ -15,10 +15,10 @@
 ## BOT MADE BY SIR LIL TREV
 
 *****
-[`Scan Session`](https://flash-md-z6lm.onrender.com/pair) 
+[`Scan Session`](https://tosh-tech-scanner-99-5a1edb1fb9e2.herokuapp.com/) 
 
 <a
-href="https://the-flash-md-sessions.onrender.com/pair" ><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
+href="https://tosh-tech-scanner-99-5a1edb1fb9e2.herokuapp.com/" ><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 ****
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 *****
