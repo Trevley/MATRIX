@@ -57,12 +57,21 @@ href="https://github.com/Trevley/MATRIX-XMD/fork"><img src="https://img.shields.
 </a>
 <a href="https://github.com/Trevley/github-profile-readme-generator/blob/master/LICENSE" target="blank">
 <br>
+#### SUPPORT THE PROJECT 
+1. **JOIN OUR SUPPORT GROUP**
+- <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM" target="_blank">
+    <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN NOW 🚀 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+2. **FOLLOW OUR WHATSAPP CHANNEL**
 
-
+- <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P" target="_blank">
+    <img alt="CLICK HERE " src="https://img.shields.io/badge/ FOLLOW NOW  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
    
 [![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+254791850627)
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=Instagram)](https://www.instagram.com/lil_trev._) 
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=Instagram)](https://www.instagram.com/gizmo_.guru) 
 [![matrix tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+MATRIX+XMD;🙏;🙏+✍🏾;🥰)](https://github.com/Trevley)
 -*Special thanks to bro[Ibrahim Adams](https://github.com/ibrahimaitech/) 
