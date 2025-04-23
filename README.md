@@ -15,7 +15,7 @@
 ## BOT MADE BY SIR LIL TREV
 
 *****
-[`Scan Session`](https://tosh-tech-scanner-99-5a1edb1fb9e2.herokuapp.com/) 
+[`Scan Session`](https://anyway-scanner.onrender.com) 
 
 <a
 href="https://tosh-tech-scanner-99-5a1edb1fb9e2.herokuapp.com/" ><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
